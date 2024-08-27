@@ -11,7 +11,7 @@ function SocialMedia() {
     <ul className="home-about-social-links" style={{listStyleType: "none"}}>
       <li className="social-icons">
         <a
-          href="https://github.com/DesuS"
+          href="https://github.com/DesuSefiw/MERN-Stack-to-Addissoftware/"
           target="_blank"
           rel="noreferrer"
           className="icon-colour  home-social-icons"
